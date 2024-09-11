@@ -17,11 +17,11 @@ let conValue = "My favorite book is " + firstBook + " and " + secondBook
 console.log(conValue)
 
 // Try declare more variable using other data type with dynamic value and primitive value
-let age = 21
-let isStudent = true
-let student = {
-    name: "maya",
-    major: "informatics",
-    hobbies: [reading, dancing],
-};
-let number = [1, 2, 3, 4, 5]
+// let age = 21
+// let isStudent = true
+// let student = {
+//     name: "maya",
+//     major: "informatics",
+//     hobbies: [reading, dancing],
+// };
+// let number = [1, 2, 3, 4, 5]
